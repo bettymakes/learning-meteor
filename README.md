@@ -1,2 +1,3 @@
 #Learning Meteor
-Following tutorial on https://www.meteor.com/install.
+Intro to Meteor  
+Following tutorial on https://www.meteor.com/install.  
